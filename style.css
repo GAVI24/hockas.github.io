@@ -39,13 +39,15 @@ main {
 	padding: 20px;
 	
 }
-section {
-	flex-basis: 100%;
-}
+
 @media only screen and (max-width: 768px) {
 	main{
 		flex-direction: column;
 	} 
+	section {
+	flex-basis: 100%;
+	}
+}
 .services {
 	width: 100%;
 	background-color: #cd5c5c;
