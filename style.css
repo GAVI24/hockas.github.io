@@ -47,20 +47,20 @@ section {
 		flex-direction: column;
 	} 
 .services {
-	width: 30%;
+	width: 100%;
 	background-color: #cd5c5c;
 	padding: 20px;
 	margin-right: 10px;
 }
 
 .locations {
-	width: 30%;
+	width: 100%;
 	background-color: #778899;
 	padding: 20px;
 	margin-right: 10px;
 }
 .work {
-	width: 30%;
+	width: 100%;
 	background-color: #90ee90;
 	padding: 20px;
 	margin-right: 10px;
